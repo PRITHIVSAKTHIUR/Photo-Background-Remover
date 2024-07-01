@@ -12,7 +12,7 @@ header: mini
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-##Clone by
+## Clone by
 
     # Make sure you have git-lfs installed (https://git-lfs.com)
     git lfs install
@@ -23,7 +23,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
     
     GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/spaces/prithivMLmods/RMBG
 
-##Sample for RMBG
+## Sample for RMBG
 
 
 
