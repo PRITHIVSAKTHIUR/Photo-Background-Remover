@@ -12,6 +12,9 @@ header: mini
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+![alt text](assets/2.png)
+
 ## Clone by
 
     # Make sure you have git-lfs installed (https://git-lfs.com)
